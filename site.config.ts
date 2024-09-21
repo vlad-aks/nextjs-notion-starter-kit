@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Vlad AKsenov',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://nostalgic-layer-e7c.notion.site/808d926219034cf8a254f2ae1e7da410',
   author: 'Vlad AKsenov',
 
   // open graph metadata (optional)
